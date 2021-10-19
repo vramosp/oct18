@@ -16,6 +16,7 @@ sections:
     feature:
       type: ImageBlock
       altText: Fisherman holding lobster
+      url: /favicon.ico
     form:
       type: FormBlock
       elementId: contact-form
